@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nanos-food-store/static/css/main.81b0039d.css",
-    "main.js": "/nanos-food-store/static/js/main.ab2c8e0e.js",
+    "main.js": "/nanos-food-store/static/js/main.3cc0869f.js",
     "static/media/photo7.jpg": "/nanos-food-store/static/media/photo7.6a0937a4bc7ad84badf5.jpg",
     "static/media/photo2.jpg": "/nanos-food-store/static/media/photo2.1ce9981686965ee7a18c.jpg",
     "static/media/photo5.jpg": "/nanos-food-store/static/media/photo5.dff563bb53c3e7891020.jpg",
@@ -12,10 +12,10 @@
     "static/media/photo4.jpg": "/nanos-food-store/static/media/photo4.f6bf4964fcb4ba998cfd.jpg",
     "index.html": "/nanos-food-store/index.html",
     "main.81b0039d.css.map": "/nanos-food-store/static/css/main.81b0039d.css.map",
-    "main.ab2c8e0e.js.map": "/nanos-food-store/static/js/main.ab2c8e0e.js.map"
+    "main.3cc0869f.js.map": "/nanos-food-store/static/js/main.3cc0869f.js.map"
   },
   "entrypoints": [
     "static/css/main.81b0039d.css",
-    "static/js/main.ab2c8e0e.js"
+    "static/js/main.3cc0869f.js"
   ]
 }
