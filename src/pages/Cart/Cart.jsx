@@ -27,7 +27,7 @@ const Cart = () => {
             </div>
             <div className='checkout'>
                 <p><b>Subtotal: </b> ${totalAmount}</p>
-                <button onClick={() => navigate('/')}> Continue Shopping</button>
+                <button onClick={() => navigate('/nanos-food-store')}> Continue Shopping</button>
 
                 <button>Checkout</button>
             </div>
